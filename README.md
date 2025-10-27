@@ -466,9 +466,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Project Link: [https://github.com/ShivSingh-17/CO2-emission-predication](https://github.com/ShivSingh-17/CO2-emission-predication)
 
 ### Get in Touch
-- 💼 LinkedIn: [Add your LinkedIn profile]
-- 📧 Email: [Add your email]
-- 🐦 Twitter: [Add your Twitter handle]
+- 💼 LinkedIn: [https://www.linkedin.com/in/shiv-prakash-singh-624091267/]
+- 📧 Email: [shiva.singh170304@gmail.com]
 
 ---
 
